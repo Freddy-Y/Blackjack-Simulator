@@ -1,0 +1,9 @@
+Draw a card, i.e. give the user a random integer between 1 - 10. 
+Remember that Kings, Queens and Jacks all equal 10, so the set of possible integers is {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10}
+Let the user put in some input, either to hit or to stand (probably using Scanner)
+If the user says hit, 
+
+public class Card(String suit, int num) {
+
+}
+
